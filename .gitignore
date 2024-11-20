@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Chroma
+.chroma/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
